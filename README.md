@@ -1,5 +1,8 @@
 # DjangoHystack
 
+Document 
+https://django-haystack.readthedocs.io/en/master/tutorial.html#installation
+
 This repository for the create Django-hystack with the elasticsearch.
 
 Steps:
